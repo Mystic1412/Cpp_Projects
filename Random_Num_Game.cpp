@@ -15,7 +15,7 @@ int main(){
     cin>>guess;
     while(trys>0){
         if(guess == answer){
-            cout<<"You win";
+            cout<<"You win, you're great Nichole";
             return 0;
         }
         else{
